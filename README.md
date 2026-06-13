@@ -50,7 +50,6 @@ Download the latest stable APK directly from GitHub, or get it on F-Droid to rec
 
 <p align="center">
   <a href="https://github.com/AshishMusic/AshishMusic/releases/latest" style="text-decoration:none;"><img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="60"></a>
-  <a href="https://f-droid.org/packages/com.ashmusic.com/" style="text-decoration:none;"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="60"></a>
 </p>
 
 ---
@@ -60,7 +59,6 @@ Download the latest stable APK directly from GitHub, or get it on F-Droid to rec
 AshishMusic is built upon the foundation of incredible open-source projects and creative resources. A special thanks to the developers and communities behind:
 
 **Open-Source Projects:**
-* [**SoundPod**](https://github.com/arunnechully/SoundPod) — The original project this is based on
 * [**NewPipe**](https://github.com/TeamNewPipe/NewPipe)
 * [**NewPipe Extractor**](https://github.com/TeamNewPipe/NewPipeExtractor)
 * [**music-you**](https://github.com/DanielSevillano/music-you)
