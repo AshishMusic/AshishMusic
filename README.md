@@ -22,7 +22,7 @@
 ## Screenshots
 
 <p align="center">
-  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Home.png" width="24%" alt="Home Screen">
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Home.jpeg" width="24%" alt="Home Screen">
   <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Search.png" width="24%" alt="Search View">
   <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Player.png" width="24%" alt="Player View">
   <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Queue.png" width="24%" alt="Queue View">
